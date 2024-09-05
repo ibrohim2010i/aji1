@@ -1,0 +1,59 @@
+body{
+    background: url(./fonstola.ru_311747.jpg) no-repeat center center/cover;
+}
+
+.contr{
+    background: transparent;
+    backdrop-filter: blur(2px);
+    border: 1px solid;
+    padding: 10px;
+    height: 300px;
+    margin: 150px 50px;
+    text-align: center;
+    align-items: center;
+    width: 300px;
+    margin-left: 530px;
+    color: white;
+}
+.contr:hover{
+    backdrop-filter: blur(100px);
+
+
+}
+.az{
+    background-color: white;
+}
+.az:hover{
+    background-color: red;
+    color: white;
+}
+.aq{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    width: 80px;
+    border: 1px solid red;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+.aqq{
+    color: white;
+    text-decoration: none;
+}
+.aql{
+    color: chocolate;
+    position: relative;
+    bottom: 50px;
+}
+.aq:hover{
+    background-color: white;
+    color: black;
+}
+.aqq:hover{
+    color: black;
+}
+.in{
+    position: relative;
+    bottom: 30px;
+}
